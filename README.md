@@ -1,3 +1,6 @@
+# 📊 Plan de Projet Gantt
+
+```mermaid
 gantt
     title Diagramme de Gantt - Vision Macro Ousmane (2025-2028)
     dateFormat  YYYY-MM-DD
