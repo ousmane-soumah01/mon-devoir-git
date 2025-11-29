@@ -1,3 +1,4 @@
+''' mermaid
 gantt
     title Diagramme de Gantt - Vision Macro (2025-2028)
     dateFormat  YYYY-MM-DD
@@ -27,3 +28,4 @@ gantt
     5. Conception plan plaidoyer :active, c3_concep, 2027-12-01, 86d
     6. Exécution plaidoyer :c3_exec, 2028-04-01, 65d
     COPIL 4 (Clôture Finale) :milestone, 2028-07-01
+    '''
